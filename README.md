@@ -2,17 +2,17 @@
 
 ### Learning for topics
 
-#### mongoose for shcema
+* mongoose for shcema
 
-#### jest for integration-test and unit-test
+*  jest for integration-test and unit-test
 
-#### Joi validate 
+*  Joi validate 
 
-#### middleware applied
+*  middleware applied
 
-#### winston logging
+*  winston logging
 
-#### deploy on heroku
+*  deploy on heroku
 
 ## Refs
 
